@@ -4,7 +4,7 @@
 **Zane-Gamin/Zane-Gamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-My name is Zane Gamin. I'm currently enrolled in the .NET January cohort for Tech Elevator. I'm learning a cariety of basics of coding, and looking to copllaborate on the learning process as well as network with others about career ideas as well as unique ways to use the coding skillset to develop tools to make life easier.
+My name is Zane Gamin. I'm currently enrolled in the JAVA January cohort for Tech Elevator. I'm learning a cariety of basics of coding, and looking to copllaborate on the learning process as well as network with others about career ideas as well as unique ways to use the coding skillset to develop tools to make life easier.
 
 You can reach my on slack, or by email. I spend most of my free time traveling for skydiving, BASE jumping, and climbing. I would love adventure ideas!
 \
