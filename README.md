@@ -22,4 +22,4 @@ My name is Zane Gamin. I'm currently enrolled in the JAVA January cohort for Tec
 
 You can reach my on slack, or by email. I spend most of my free time traveling for skydiving, BASE jumping, and climbing. I would love adventure ideas!
 
-my chanes hopefully they dont break
+my change hopefully it doesn't break.
